@@ -1,1 +1,4 @@
-# Excel
+• Applied Analytic Hierarchy Process (AHP) and Linear Programming techniques to optimize supplier selection for a yarn company, considering factors such as Cost, Quality, Reliability, and Service speed.
+• Developed innovative strategies for applying AHP methodology in real-life scenarios, including Strategic Planning, New Project Development, and environmental planning, demonstrating a keen understanding of practical decision-making processes.
+• Conducted thorough sensitivity analysis and calculated the Consistency Index to ensure the reliability of the decision-making process, leading to the prioritization of suppliers based on quality and reliability metrics.
+• Utilized Linear Programming to design a cost-effective distribution network that efficiently met customer demands, showcasing strong analytical and problem-solving skills in logistics optimization.
